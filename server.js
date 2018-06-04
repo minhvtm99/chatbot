@@ -1,6 +1,6 @@
 // # SimpleServer
 // A simple chat bot server
-// note
+// note v1.2
 var logger = require('morgan');
 var http = require('http');
 var bodyParser = require('body-parser');
